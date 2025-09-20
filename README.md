@@ -218,8 +218,8 @@ plt.show()
 **i)** Read and Display an Image.
 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
+<img width="679" height="464" alt="image" src="https://github.com/user-attachments/assets/6a0ab1d3-640a-45eb-b5f6-b6f00f23fc3f" />
 
-![Screenshot 2025-03-09 154231](https://github.com/user-attachments/assets/31689cac-7a79-459c-9940-0adc26441782)
 
 
 
@@ -232,7 +232,8 @@ plt.show()
 
 
  
-  ![image](https://github.com/user-attachments/assets/f17ba18b-7549-45e8-80a4-8568b81b718b)
+<img width="744" height="491" alt="image" src="https://github.com/user-attachments/assets/dbfc175a-b563-48e7-8eb5-5c651601a378" />
+
 
 
 
@@ -246,8 +247,7 @@ plt.show()
 
 
 
-  
-  ![image](https://github.com/user-attachments/assets/ebd99581-276e-47f9-af37-c99423e803bc)
+<img width="466" height="545" alt="image" src="https://github.com/user-attachments/assets/7d4b6300-dd63-4239-9d1b-586bff5223e7" />
 
 
 
@@ -259,8 +259,8 @@ plt.show()
 
 
 
-  
-  ![image](https://github.com/user-attachments/assets/92cb7462-a2fd-4ba3-bf89-02785b629e1d)
+  <img width="555" height="552" alt="image" src="https://github.com/user-attachments/assets/7c512a79-cec4-477d-b4c4-8f4f5b18edfa" />
+
 
 
 
